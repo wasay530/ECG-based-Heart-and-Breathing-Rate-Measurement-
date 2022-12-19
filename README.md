@@ -1,4 +1,4 @@
-# ECG SIgnal based Heart Rate and Breathing Rate Measurement
+# ECG Signal based Heart Rate and Breathing Rate Measurement
 
 The setup comprised of ECG 3-channel electrodes, connected to a AD8232 module. The connection of 3 electrodes to body placement is shown below.
 
